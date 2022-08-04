@@ -11,7 +11,7 @@ Feel free to listen to all of the songs and follow the artist on social media!
   <img align="center" alt="CSS-icon" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
   <img align="center" alt="JS-icon" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
 </div>
-
+<br />
 - HTML
 - CSS
 - JavaScript
