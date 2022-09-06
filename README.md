@@ -20,6 +20,8 @@ Feel free to listen to all of the songs and follow the artist on social media!
 
 This is a Front End project, so no Back End language was used to set up a local server. You can visualize the final result using VSCode's *Live Server* extension.
 
+UPDATE (06/09) - A temporary version was deployed on Heroku's platform [Link](https://powerful-beyond-84068.herokuapp.com/) 
+
 ## Features
 For this project it was necessary to develop a customized audio player:<br />
 ![file-path](img/print-screen-final-result.png)
