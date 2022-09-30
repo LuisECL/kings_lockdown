@@ -43,7 +43,7 @@ for (let i=0; i<music.length; i++) {
     setTimeout(() => {
       seekBars[i].max = music[i].duration;
       musicDurations[i].innerHTML = formatTime(music[i].duration);
-    }, 300)
+    }, 2000)
   }
 
   setInterval(() => {
